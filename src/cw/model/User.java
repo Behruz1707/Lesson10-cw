@@ -1,4 +1,4 @@
-package model;
+package cw.model;
 
 public class User {
     private String firstName;

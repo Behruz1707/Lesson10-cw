@@ -1,4 +1,4 @@
-package service;
+package cw.service;
 
 public class UserServiceImpl implements UserService{
     /**
