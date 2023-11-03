@@ -1,0 +1,3 @@
+Recursively scanning means
+That there may be folders inside the folder so it says scan recursively untill reach the last inner file.
+But you can skip that and add files to the shown folder statically, not doing complicated folder structure

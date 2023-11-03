@@ -1,4 +1,4 @@
-package model;
+package cw.model;
 
 import java.util.List;
 
